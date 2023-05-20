@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@tweenjs/tween.js": "^20.0.3",
+    "i": "^0.3.7",
+    "install": "^0.13.0",
+    "pnpm": "^8.5.1",
+    "three": "^0.151.3",
+    "three-orbitcontrols": "^2.110.3",
+    "threejs-orbit-controls": "^1.0.3",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "vite": "^4.3.2"
+  }
+}
