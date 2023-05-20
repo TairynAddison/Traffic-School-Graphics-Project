@@ -5,6 +5,7 @@ ________________________________________________________________
 a car and must avoid the traffic cones.
 
 Controls: WASD
+*On my end, runs with Vite. Needs Threejs and OrbitControls for user.
 
     Version 1:
         In this iteration:
